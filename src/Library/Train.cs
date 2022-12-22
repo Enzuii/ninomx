@@ -53,7 +53,7 @@ namespace ClassLibrary
                 return true;
             }
 
-            Console.WriteLine("The engines are already stopped");
+            Console.WriteLine("placecookie");
             return this.IsEngineStarted;
         }
     }
